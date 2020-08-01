@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511744152702",
+    "project_id": "chat-application-c30fb",
+    "storage_bucket": "chat-application-c30fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511744152702:android:97d05d9fb5acb43d27b42f",
+        "android_client_info": {
+          "package_name": "com.example.FastChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511744152702-ou8rlph8s5nl0udda4a28f71btt0ofrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf5U8sOepdS7bqCLK-Mg1mlZZ-si3eAW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511744152702-ou8rlph8s5nl0udda4a28f71btt0ofrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
